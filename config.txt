@@ -1,0 +1,6 @@
+# 缓存目录 该目录将用于存放从Android pull的原始数据
+TMPDIR=H:\\tmp
+# 输出目录，注意目录写法 \\ 或者/
+OUTDIR=H:\\tmp
+# ffmpeg位置
+FFMPEGPATH=E:\\Tools\\cmdtool\\ffmpeg.exe
